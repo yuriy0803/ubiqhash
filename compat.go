@@ -19,7 +19,7 @@ package ubqhash
 import (
 	"math/big"
 
-	"github.com/ubiq/go-ubiq/v5/common"
+	"github.com/ubiq/go-ubiq/common"
 )
 
 type Block interface {
