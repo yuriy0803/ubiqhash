@@ -1,4 +1,4 @@
-module github.com/ubiq/ubqhash
+module github.com/yuriy0803/ubiqhash-diff
 
 go 1.15
 
